@@ -1,4 +1,4 @@
-![MasterHead](https://www.behance.net/gallery/156923915/LinkedIn-Banner/modules/885287333)
+![MasterHead](https://www.istockphoto.com/vector/teenage-girk-working-on-computer-in-classroom-gm1150453750-311427082)
 <h1 align="center">Hi 👋, I'm Shreeji Tiwari</h1>
 <h3 align="center">I am a purpose driven passionate programmer and an AI enthusiast</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
