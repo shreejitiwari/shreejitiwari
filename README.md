@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
 
 
-- 🌱 I’m currently learning **C++, OOPs, Web-Development, AIML**
+- 🌱 I’m currently learning **C++, DSA, DBMS, Web-Development, AIML**
 
 - 💬 Ask me about **AIML**
 
