@@ -1,3 +1,5 @@
+[![An image of @shreejitiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreejitiwari)](https://holopin.io/@shreejitiwari)
+
 ![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg)
 <h1 align="center">Hi 👋, I'm Shreeji Tiwari</h1>
 <h3 align="center">I am a purpose driven passionate programmer and an AI enthusiast</h3>
