@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Shreeji Tiwari</h1>
 <h3 align="center">I am a purpose driven passionate programmer and an AI enthusiast</h3>
-
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejitiwari&label=Profile%20views&color=0e75b6&style=flat" alt="shreejitiwari" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
+
+
 - 🌱 I’m currently learning **C++, DSA, DBMS, Web-Development, AIML**
 
 - 💬 Ask me about **AIML**
